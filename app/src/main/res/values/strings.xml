@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">WakeOnLan</string>
+    <string name="mac_address_hint">Type here MAC Address</string>
+    <string name="turn_on">Wake On Computer</string>
+    <string name="wake_on_lan_alert">Wake-on-LAN only works when the computer is in sleep mode.</string>
+</resources>
