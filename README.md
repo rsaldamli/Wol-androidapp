@@ -1,3 +1,3 @@
 
 
-![Alt Metin](wakeonlanapp.png)
+![Wake on lan app screenshot](wakeonlanapp.png)
